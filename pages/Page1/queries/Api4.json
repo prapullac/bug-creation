@@ -26,7 +26,7 @@
       "queryParameters": [
         {
           "key": "page",
-          "value": "2"
+          "value": "1"
         }
       ],
       "bodyFormData": [],
